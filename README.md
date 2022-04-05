@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mohammed Abdullah
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Amazon Web Services
+- 💞️ I’m looking to collaborate on GitHub 
+- 📫 You can reach me on LinkedIn https://www.linkedin.com/in/mohammed-abdullah-5a441a220/
